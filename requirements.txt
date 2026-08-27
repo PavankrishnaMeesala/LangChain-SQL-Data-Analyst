@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+langchain
+langchain-huggingface
+huggingface-hub
+python-dotenv
+sqlparse
