@@ -14,7 +14,7 @@ LangChain SQL Data Analyst is an interactive web application that allows you to 
 - **Export Data:** Download the resulting query data as a CSV file.
 
 **🛠️ Technology Stack**
-
+---
 - **Frontend:** Streamlit
 - **Data Manipulation:** Pandas
 - **Visualization:** Plotly
@@ -22,7 +22,7 @@ LangChain SQL Data Analyst is an interactive web application that allows you to 
 - **AI / LLM Framework:** LangChain & HuggingFace Hub
 
 **🔄 Complete Workflow**
-
+---
 1. **Upload Dataset:** The user uploads a CSV file via the Streamlit sidebar.
 2. **Data Processing:** The app reads, cleans, and loads the CSV data into a temporary SQLite database.
 3. **Schema Extraction:** The database schema (table structure, columns, and data types) is automatically extracted.
