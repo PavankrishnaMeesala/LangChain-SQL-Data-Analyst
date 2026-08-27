@@ -7,7 +7,7 @@ LangChain SQL Data Analyst is an interactive web application that allows you to 
 
 🚀 Features
 
--**Natural Language to SQL:** Ask questions in plain English, and the agent translates them into valid SQL queries.
+**Natural Language to SQL:** Ask questions in plain English, and the agent translates them into valid SQL queries.
 -**Dynamic Data Visualization:** Automatically generates interactive charts based on query results using Plotly.
 - **Actionable Insights:** Provides AI-generated insights summarizing the queried data.
 - **Security Check:** Validates SQL queries to prevent harmful operations (e.g., SQL injection, DROP/DELETE commands).
